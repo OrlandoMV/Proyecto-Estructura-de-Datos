@@ -1,0 +1,17 @@
+C:\Users\orlan\Downloads\C#\PryectoED\Estructura de datos\bin\Debug\net8.0-windows\Estructura de datos.exe
+C:\Users\orlan\Downloads\C#\PryectoED\Estructura de datos\bin\Debug\net8.0-windows\Estructura de datos.deps.json
+C:\Users\orlan\Downloads\C#\PryectoED\Estructura de datos\bin\Debug\net8.0-windows\Estructura de datos.runtimeconfig.json
+C:\Users\orlan\Downloads\C#\PryectoED\Estructura de datos\bin\Debug\net8.0-windows\Estructura de datos.dll
+C:\Users\orlan\Downloads\C#\PryectoED\Estructura de datos\bin\Debug\net8.0-windows\Estructura de datos.pdb
+C:\Users\orlan\Downloads\C#\PryectoED\Estructura de datos\obj\Debug\net8.0-windows\Estructura_de_datos.Form1.resources
+C:\Users\orlan\Downloads\C#\PryectoED\Estructura de datos\obj\Debug\net8.0-windows\Estructura de datos.csproj.GenerateResource.cache
+C:\Users\orlan\Downloads\C#\PryectoED\Estructura de datos\obj\Debug\net8.0-windows\Estructura de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orlan\Downloads\C#\PryectoED\Estructura de datos\obj\Debug\net8.0-windows\Estructura de datos.AssemblyInfoInputs.cache
+C:\Users\orlan\Downloads\C#\PryectoED\Estructura de datos\obj\Debug\net8.0-windows\Estructura de datos.AssemblyInfo.cs
+C:\Users\orlan\Downloads\C#\PryectoED\Estructura de datos\obj\Debug\net8.0-windows\Estructura de datos.csproj.CoreCompileInputs.cache
+C:\Users\orlan\Downloads\C#\PryectoED\Estructura de datos\obj\Debug\net8.0-windows\Estructura de datos.sourcelink.json
+C:\Users\orlan\Downloads\C#\PryectoED\Estructura de datos\obj\Debug\net8.0-windows\Estructura de datos.dll
+C:\Users\orlan\Downloads\C#\PryectoED\Estructura de datos\obj\Debug\net8.0-windows\refint\Estructura de datos.dll
+C:\Users\orlan\Downloads\C#\PryectoED\Estructura de datos\obj\Debug\net8.0-windows\Estructura de datos.pdb
+C:\Users\orlan\Downloads\C#\PryectoED\Estructura de datos\obj\Debug\net8.0-windows\Estructura de datos.genruntimeconfig.cache
+C:\Users\orlan\Downloads\C#\PryectoED\Estructura de datos\obj\Debug\net8.0-windows\ref\Estructura de datos.dll
